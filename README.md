@@ -1,5 +1,7 @@
 # Food-App-UI-
 This Flutter Project is for Personal Uses .
+This project is only for learning purposes. 
+
 
 A flutter project of a Food Ordering app concept from upLabs
 
